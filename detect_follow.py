@@ -21,6 +21,7 @@ import sys
 sys.path.append('/usr/lib/python3/dist-packages')
 import virtkey
 
+# using yolov3
 
 def get_point(event, x, y, flags, param):
     global imgcor_x,imgcor_y,status
